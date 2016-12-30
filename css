@@ -1,0 +1,217 @@
+
+/* ==========================================================================
+   DONATELY for ARCHGRP
+   ========================================================================== */
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+.donately-donation-form, .donately-thank-you {
+  font-size: 12px;
+  line-height: 1em;
+  position: center;
+  min-width: 200px;
+  max-width: 400px;   
+  margin: 50;
+  background-image: http://static1.squarespace.com/static/52f2bc6fe4b0877c0db2d64d/t/530476a8e4b0f2cfe76621ae/1480318491985/?format=1500w;
+}
+
+.donately-btn.donately-submit {
+  border: none;
+  background-image: none;
+  background-color: #239BE0;
+  border-radius: 0px;
+  text-shadow: none;
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: .2em;
+  padding: 12px 40px;
+}
+
+.donately-donation-form input[type='text'], .donately-donation-form input[type='checkbox'], .donately-donation-form input[type='textarea'], .donately-donation-form input[type='radio'], .donately-donation-form select {
+    margin: 0;
+}
+<style>…</style>
+.donately-first-name-group input, .donately-last-name-group input {
+    width: 100%;
+}
+<style>…</style>
+input.donately-text-input {
+    line-height: normal;
+    height: auto;
+    width: auto;
+    font-family: inherit;
+    margin: 0;
+    font-size: 1.38em;
+    padding: 0.5em 0.5em;
+    display: block;
+    background-color: #fff;
+    color: #333;
+    position: relative;
+    border: 1px solid #ccc;
+    border-top-color: #a0a0a0;
+    border-right-color: #aaa;
+    border-left-color: #aaa;
+    box-shadow: inset 1px 2px rgba(0,0,0,0.075);
+    -moz-box-shadow: inset 01px 2px rgba(0,0,0,0.075);
+    -webkit-box-shadow: inset 1px 2px rgba(0,0,0,0.075);
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+.donately-secure-fields {
+    border: 1px solid #D7DADD;
+    background-color: #EFF3F5;
+    padding: 0;
+    margin: 0 0 1.92em;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.donately-donation-form, .donately-thank-you {
+    font-size: 14px;
+    line-height: 1em;
+    position: relative;
+    min-width: 270px;
+    margin: 0 auto;
+}
+
+.donately-donation-form, .donately-thank-you {
+    font-size: 14px;
+    line-height: 1em;
+    position: relative;
+    min-width: 270px;
+    margin: 0 auto;
+}
+
+.donately-secure-header {
+    font-size: 0.77em;
+    background-color: #e8ebed;
+    text-transform: uppercase;
+    color: #83939b;
+    padding: 1em 1.5em;
+    margin-bottom: 1em;
+    box-shadow: inset 0px 1px 0px rgba(255,255,255,0.3);
+    -moz-box-shadow: inset 0px 1px 0px rgba(255,255,255,0.3);
+    -webkit-box-shadow: inset 0px 1px 0px rgba(255,255,255,0.3);
+}
+
+.donately-secure-fields .donately-fields.card-number-fields {
+    margin-bottom: 1.5em;
+}
+
+.donately-secure-fields .donately-fields {
+    padding-left: 1.15em;
+    padding-right: 1.15em;
+    margin-bottom: 0;
+}
+
+fieldset.donately-fields {
+    border: none;
+    margin: 0 0 1.2em;
+    padding: 0;
+    position: relative;
+}
+
+#donately-card-exp-month {
+    float: left;
+    margin-right: 5px;
+}
+
+.donately-expiration-date input {
+    width: 3em;
+}
+
+input#donately-amount {
+    width: 100%;
+    font-size: 2.31em;
+    padding: 0.4em 0.3em 0.4em 1em;
+}
+
+.donately-btn {
+    font-family: inherit;
+    -webkit-appearance: none;
+    margin: 0;
+    font-size: 1.23em;
+    font-weight: bold;
+    vertical-align: middle;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    text-shadow: 0px -1px 0px rgba(0,0,0,0.3);
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid transparent;
+    outline: none;
+    background: #2dad61;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+label.donately-label.checkbox {
+    display: inline-block;
+    padding: 0 6px;
+}
+
+label.donately-label {
+    font-size: 1em;
+    font-weight: normal;
+    color: #4f4f4f;
+    margin-bottom: 0.3em;
+    display: block;
+    line-height: normal;
+    text-transform: none;
+}
+
+textarea.donately-textarea {
+    line-height: normal;
+    height: auto;
+    width: 100%;
+    font-family: inherit;
+    margin: 0;
+    font-size: 1.38em;
+    padding: 0.5em 0.7em;
+    display: block;
+    background-color: #fff;
+    color: #333;
+    position: relative;
+    border: 1px solid #ccc;
+    border-top-color: #a0a0a0;
+    border-right-color: #aaa;
+    border-left-color: #aaa;
+    box-shadow: inset 1px 2px rgba(0,0,0,0.075);
+    -moz-box-shadow: inset 01px 2px rgba(0,0,0,0.075);
+    -webkit-box-shadow: inset 1px 2px rgba(0,0,0,0.075);
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+.donately-city-group select, .donately-state-group select {
+    height: 44px;
+    border: 1px solid #e1e1e1;
+    font-size: 14px;
+    color: #4f4f4f;
+}
+
+#donately-phone-number {
+    width: 100%;
+}
+
+.donately-donation-form input[type='text'], .donately-donation-form input[type='checkbox'], .donately-donation-form input[type='textarea'], .donately-donation-form input[type='radio'], .donately-donation-form select {
+    margin: 0;
+}
+
+
